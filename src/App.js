@@ -13,54 +13,7 @@ export default function App() {
     </div>
   );
 }
-{
-  /* <UserContext.Provider value={"Aurora"}>
-        <WorkContext.Provider value={"InfoTech"}>
-          <ComponentC />
-        </WorkContext.Provider>
-      </UserContext.Provider>
-      <section>
-        <FocusInput />
-        <Counter />
-      </section>
-      <section>
-        <StudentList />
-      </section>
-      <section>
-        <ToDoList />
-      </section>
-      <section>
-        <TextClear />
-      </section>
-      <section>
-        <EmailValidation />
-      </section>
-      <section>
-        <ControlledComp />
-      </section>
-      <section>
-        <UsersTable />
-      </section>
-      <section>
-        <MyTable />
-      </section>
 
-      <section>
-        <SortTable />
-      </section>
-
-      <section>
-        <GetPostAxios />
-      </section>
-
-      <section>
-        <PostAxiosPosts />
-      </section>
-
-      <section>
-        <GetDataAuth />
-      </section> */
-}
 // import Header from "./Header/Header";
 // import componentimg from "./assests/components.png";
 // import { CORE_CONCEPTS } from "./data";
