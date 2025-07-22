@@ -1,0 +1,10 @@
+.button {
+  background-color: aqua;
+  color: white;
+  padding: 10px;
+}
+.secondButton {
+  background-color: red;
+  color: black;
+  padding: 15px;
+}
