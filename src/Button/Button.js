@@ -17,9 +17,6 @@ export default function Button() {
       <Title>A JE MIRE</Title>
       <button className={styles.button}>PERSHENDETJE</button>
       <Description>MIRE TI A JE MIRE</Description>
-      <button className={styles.button} style={{ color: "black" }}>
-        DITEN E MIRE
-      </button>
       <Description>nope</Description>
     </div>
   );
